@@ -1,0 +1,38 @@
+Sounds:
+  Enabled: false
+  Delay: entity_tnt_primed
+  Success: entity_generic_explode
+Titles:
+  Enabled: true
+  NoDelay:
+    Title: '&6Teletransportandote...'
+    Subtitle: '&8Por favor, espera'
+    SendMessage: true
+  Teleport:
+    Title: '&6Teletransportado!'
+    Subtitle: '&fx=%x% y=%y% z=%z% en %attempts% intentos'
+    SendMessage: true
+  Delay:
+    Title: ''
+    Subtitle: '&fTeletransportandote en %time% segundos...'
+    SendMessage: true
+  Cancelled:
+    Title: '&eTe has movido...'
+    Subtitle: '&cEl RTP se canceló!'
+    SendMessage: true
+  Loading:
+    Title: ''
+    Subtitle: '&7Cargando chunks... por favor, espera'
+    SendMessage: true
+Particles:
+  Enabled: false
+  Type: EXPLOSION_NORMAL
+  Shape: EXPLODE
+Invincible:
+  Enabled: true
+  Seconds: 5
+Potions:
+  Enabled: true
+  Types:
+  - Blindness:60:1
+  - Invisibility:60:1

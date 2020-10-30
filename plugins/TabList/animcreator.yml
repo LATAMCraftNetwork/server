@@ -1,0 +1,48 @@
+animations:
+  tablist:
+    # Text changing interval in milliseconds (ticks).
+    interval: 60
+
+    # Display the text randomly?
+    random: true
+
+    # The list of texts that will appear
+    texts:
+    - "&b&lLista de Jugadores"
+
+  welcome:
+   
+    texts:
+    - "&cBienvenid@!"
+    
+  Admin:
+
+    texts:
+    - "&a[&cAdmin&a]&6 "
+ 
+
+  website:
+    texts:
+    - "&f&o Tienda:"
+
+  perWorld:
+    interval: 300
+    texts:
+    - "&cThis is a per world plugin&6 TabList"
+    - "&6This is a per world plugin&3 TabList"
+    - "&3This is a per world plugin&a TabList"
+    - "&aThis is a per world plugin&7 TabList"
+
+  perPlayer:
+    texts:
+    - "&aBienvenid@ &6%player%\n<lines>"
+    
+  perGroupHead:
+ 
+    texts:
+    - "&aBienvenid@ &6%player%"
+
+
+  perGroupFoot:
+    texts:
+    - "&cRango actual: %vault_rank%"

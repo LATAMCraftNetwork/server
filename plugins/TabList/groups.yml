@@ -1,0 +1,21 @@
+# Global group to display for all players
+# Leave it empty or remove it, if you don't want to use
+globalGroup:
+  prefix: ''
+  suffix: ''
+groups:
+  exampleGroup:
+    prefix: '&a[&cStaff&a]&6 '
+    suffix: '&7 <12>'
+  Default:
+    prefix: '&7'
+  Admin:
+    prefix: '&7<62>&r %anim:Admin%'
+    suffix: '&7 <62>'
+    sort-priority: 0
+  PlayerName:
+    prefix: '&a[MyGroup]&7'
+    sort-priority: 1
+  usuario:
+    prefix: '&a'
+    suffix: '&r'

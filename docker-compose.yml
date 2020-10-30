@@ -1,0 +1,12 @@
+version: '2'
+
+services:
+    mc_server:
+        build: .
+        ports:
+            - "25500-25600"
+        volumes:
+            - ./world:/server/world
+            - ./world_nether:/server/world_nether
+            - ./world_the_end:/server/world_the_end
+            - ./logs:/server/logs

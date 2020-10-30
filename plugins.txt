@@ -1,0 +1,55 @@
+**STACK O LISTA DE PLUGINS DEL SERVIDOR (CON SU DOCUMENTACIÓN CORRESPONDIENTE)**
+
+**Paper 1.16**
+Es la interfaz de plugins o versión del servidor. Tiene de bueno que, además de ser la mejor optimizada del momento, soporta plugins tanto de Bukkit como Spigot (y creo que demás interfaces también).
+Doc: https://paper.readthedocs.io/en/latest/
+
+**EssentialsX**
+Suite de plugins core del sv, con muchas funcionalidades para economía, protecciones, spawning, admin y moderación. Obligatorio para casi todos los svs del mundo.
+Doc: https://github.com/EssentialsX/Essentials/wiki
+
+**LuckPerms**
+Plugin core de permisos. Necesario para la división de permisos de modificación y edición (tanto del mundo, como del sv) y de moderación o administración. En teoría el más eficiente y optimizado con Paper.
+Doc: https://luckperms.net/wiki/Usage
+
+**Vault**
+Plugin core con varias funcionalidades de administración de economía, chat y permisos. Lo usamos como interfaz entre los plugins específicos para estas tareas (recomendado por la comunidad en general).
+Doc: https://github.com/milkbowl/Vault
+
+**Multiverse 2 o Multiverse Core + Multiverse Nether Portals**
+Plugins para crear varios mundos dentro del mismo server (desde normales, con sus propias dimensiones, hasta muy personalizables). Muy útil para separar por ejemplo el lobby del survival. Recordar que al crear un mundo normal, si se quiere que tenga nether, si o sí debe usarse con Multiverse Nether Portals. (Se abrevia con MV o MV NP).
+Doc: https://github.com/Multiverse/Multiverse-Core/wiki/Command-Reference
+
+**World Edit + World Guard**
+Plugins fundamentales para construir, necesarios para cualquier builder. A su vez, World Guard, permite la optimización de las protecciones con los permisos y el sistema que usemos de parcela o proteccion de tierra para los usuarios.
+Docs: https://worldedit.enginehub.org/en/latest/
+      https://worldguard.enginehub.org/en/latest/
+
+**Chest Commands**
+Plugin que permite crear interfaces visuales (con acciones configurables) en base a cofres. Muy util y elegante para guiar al usuario.
+Doc: https://filoghost.me/docs/chest-commands
+
+**Protection Stones**
+Plugin en el cual se establecen bloques que sirven para que los usuarios protejan áreas para que no puedan ser editadas por otro player.
+Doc: https://github.com/espidev/ProtectionStones/wiki/Commands
+Default config: https://github.com/espidev/ProtectionStones/wiki/Configuration
+
+**Auction House**
+Plugin que establece una casa de subastas (con interfaz gráfica) en la cual los jugadores pueden comprar y vender con comandos.
+Doc: https://www.spigotmc.org/resources/auctionhouse.61836/
+
+**Jobs Reborn**
+Plugin de trabajos, mediante el cual los jugadores pueden ser mineros, verduleros, cazadores, etc. Permite ganar dinero progresivamente con el nivel de profesión. Clásico de los survivals.
+Doc: https://www.spigotmc.org/resources/jobs-reborn.4216/
+
+**ChatEx**
+Plugin de administración de chat, donde se pueden establecer sufijos, prefijos, weight de los grupos de usuarios, etc.
+Doc: https://github.com/TheJeterLP/ChatEx/wiki
+
+**BetterRTP**
+Plugin que permite teletransportarse a una ubicación aleatoria. Sirve para el survival.
+Doc: https://github.com/SuperRonanCraft/BetterRTP/wiki
+
+**OpeNLogin**
+Plugin de autentificación mediante registro de usuario con contraseña dentro del sv. Existe la posibilidad de combinarlo con otro plugin para hacer autentificación de dos pasos.
+Doc: https://github.com/nickuc/OpeNLogin/blob/master/docs/lang.md

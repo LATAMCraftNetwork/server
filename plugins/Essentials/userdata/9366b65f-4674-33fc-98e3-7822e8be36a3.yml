@@ -1,0 +1,20 @@
+lastAccountName: SerMan
+timestamps:
+  login: 1603912770305
+  logout: 1603912815053
+ipAddress: 26.204.220.184
+lastlocation:
+  world: world
+  x: 179.6287273108935
+  y: 77.0
+  z: -123.88781955098317
+  yaw: -330.14893
+  pitch: 21.300016
+money: '50000000'
+logoutlocation:
+  world: world
+  x: 116.12992221003374
+  y: 87.30598567762539
+  z: -14.381654143555107
+  yaw: -214.49667
+  pitch: 36.600044

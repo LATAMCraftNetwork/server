@@ -1,0 +1,57 @@
+paper.jar <1.16.3><251> https://papermc.io/api/v1/paper/{version}/{build}/download
+
+------ Plugins ------
+
+Essentials <2.18.1.31>
+https://ci.ender.zone/job/EssentialsX/lastSuccessfulBuild/artifact/Essentials/target/EssentialsX-{version}.jar
+https://ci.ender.zone/job/EssentialsX/lastSuccessfulBuild/artifact/EssentialsAntiBuild/target/EssentialsXAntiBuild-{version}.jar
+https://ci.ender.zone/job/EssentialsX/lastSuccessfulBuild/artifact/EssentialsGeoIP/target/EssentialsXGeoIP-{version}.jar
+https://ci.ender.zone/job/EssentialsX/lastSuccessfulBuild/artifact/EssentialsProtect/target/EssentialsXProtect-{version}.jar
+https://ci.ender.zone/job/EssentialsX/lastSuccessfulBuild/artifact/EssentialsSpawn/target/EssentialsXSpawn-{version}.jar
+https://ci.ender.zone/job/EssentialsX/lastSuccessfulBuild/artifact/EssentialsXMPP/target/EssentialsXXMPP-{version}.jar
+
+LuckPerms <5.2.18>
+https://ci.lucko.me/job/LuckPerms/1183/artifact/bukkit/build/libs/LuckPerms-Bukkit-{version}.jar
+
+Vault <1.7.3>
+https://github.com/MilkBowl/Vault/releases/download/{version}/Vault.jar
+
+Multiverse <4.2.2> (hay que copiar el link del release en el momento)
+https://media.forgecdn.net/files/3074/594/Multiverse-Core-4.2.2.jar
+https://media.forgecdn.net/files/3074/616/Multiverse-NetherPortals-4.2.1.jar
+
+WorldEdit <7.2.0-rc2-dist> (hay que copiar el link del release en el momento)
+https://media.forgecdn.net/files/3088/911/worldedit-bukkit-7.2.0-rc2-dist.jar
+
+WorldGuard <7.0.4> (hay que copiar el link del release en el momento)
+https://media.forgecdn.net/files/3066/271/worldguard-bukkit-7.0.4.jar
+
+ChestCommands <4.0.2> (hay que copiar el link del release en el momento)
+https://media.forgecdn.net/files/3086/745/ChestCommands.jar
+
+ProtectionStones <2.7.7>
+https://github.com/espidev/ProtectionStones/releases/download/{version}/ProtectionStones-{version}.jar
+
+AuctionHouse 2.1.11 <363823>
+https://www.spigotmc.org/resources/auctionhouse.61836/download?version={versioncode}
+
+Jobs Reborn 4.16.2 <359430>
+https://www.spigotmc.org/resources/jobs-reborn.4216/download?version={versioncode}
+
+ChatEx <2.6.1>
+https://github.com/TheJeterLP/ChatEx/releases/download/v{version}/ChatEx.jar3
+
+BetterRTP 2.14.3 <360792>
+https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/download?version={versioncode}
+
+OpenLogin <1.1>
+https://github.com/nickuc/OpeNLogin/releases/download/v{version}/OpenLogin.jar
+
+PlaceholderAPI <2.10.9>
+https://github.com/PlaceholderAPI/PlaceholderAPI/releases/download/{version}/PlaceholderAPI-{version}.jar
+
+ProtocolLib v4.6.0-SNAPSHOT (hay que copiar el link del release en el momento)
+https://ci.dmulloy2.net/job/ProtocolLib/lastSuccessfulBuild/artifact/target/ProtocolLib.jar
+
+TabList <5.4.8>
+https://github.com/montlikadani/TabList/releases/download/v{version}/TabList-v{version}.jar

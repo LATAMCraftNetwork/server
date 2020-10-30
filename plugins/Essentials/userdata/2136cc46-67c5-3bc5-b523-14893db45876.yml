@@ -1,0 +1,47 @@
+lastAccountName: Emgv
+timestamps:
+  login: 1603991573431
+  logout: 1603994903267
+  lastteleport: 1603987259823
+ipAddress: 26.204.221.68
+logoutlocation:
+  world: world
+  x: -707.3595136204938
+  y: 66.0
+  z: -783.2691404440674
+  yaw: 281.2473
+  pitch: 23.700098
+nickname: Emgv
+money: '50000000.0'
+lastlocation:
+  world: world
+  x: 757.3000000119209
+  y: 74.0
+  z: -654.9855343301114
+  yaw: 192.74121
+  pitch: 22.049747
+godmode: false
+socialspy: false
+afk: false
+homes:
+  uno:
+    world: world
+    x: 75.42097208245103
+    y: 78.0
+    z: 38.22389972948347
+    yaw: 64.649315
+    pitch: 23.100424
+  dos:
+    world: world
+    x: 71.5172622727447
+    y: 76.0
+    z: 41.64638606423456
+    yaw: 64.649315
+    pitch: 23.100424
+  tres:
+    world: world
+    x: 62.830877845407535
+    y: 74.0
+    z: 45.759367152561886
+    yaw: 64.649315
+    pitch: 23.100424
